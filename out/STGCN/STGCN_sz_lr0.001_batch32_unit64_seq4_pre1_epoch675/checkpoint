@@ -1,0 +1,3 @@
+model_checkpoint_path: "model_10015TGCN_pre_500-500"
+all_model_checkpoint_paths: "model_10015TGCN_pre_0-0"
+all_model_checkpoint_paths: "model_10015TGCN_pre_500-500"
